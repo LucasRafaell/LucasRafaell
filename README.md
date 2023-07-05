@@ -6,7 +6,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafaell&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-<div style="display: inline_block"><br>
+<hr>
+<div style="display: inline_block">
   
   ### Languages and Tools:<br>
            
@@ -29,8 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
           
 </div>
- 
- <br>
+ <hr>
  
   ### Contact me on the networks below!
  
@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
   
   <a href="https://instagram.com/luucas_rafaell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasrafaelinfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-rafael-419901172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-rafael-419901172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <hr>
  
   ![Snake animation](https://github.com/LucasRafaell/LucasRafaell/blob/output/github-contribution-grid-snake.svg)
 
