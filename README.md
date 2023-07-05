@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucas Rafael 😁
+## Welcome to Lucas Rafael profile 😁
 
  <div>
    <a href="https://github.com/LucasRafaell">
