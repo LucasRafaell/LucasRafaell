@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contate-me nas redes abaixo!
  
 <div> 
   
