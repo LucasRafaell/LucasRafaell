@@ -1,7 +1,5 @@
 ## Welcome to Lucas Rafael profile 😁
 
- 
-<hr>
 <div style="display: inline_block">
   
   ### Languages and Tools:<br>
