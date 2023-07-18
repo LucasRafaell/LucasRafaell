@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafaell&hide_progress=false&layout=compact)](https://github.com/LucasRafaell/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRafaell&show_icons=true&theme=radical)
   
   ### Languages and Tools:<br>
            
