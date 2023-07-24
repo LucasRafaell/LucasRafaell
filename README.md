@@ -1,8 +1,6 @@
 ## Welcome to Lucas Rafael profile 😁
 
 <div style="display: inline_block">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRafaell&show_icons=true&theme=radical)
   
   ### Languages and Tools:<br>
            
